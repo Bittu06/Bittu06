@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bittu06" alt="bittu06" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bittu dey" target="blank"><img src="https://img.shields.io/twitter/follow/bittu dey?logo=twitter&style=for-the-badge" alt="bittu dey" /></a> </p>
+<p align="left"> <a href="https://twitter.com/dey1869640" target="blank"><img src="https://img.shields.io/twitter/follow/bittu dey?logo=twitter&style=for-the-badge" alt="bittu dey" /></a> </p>
 
 - 🌱 I’m currently learning **JavaScript,React,Cpp,Git&Github**
 
