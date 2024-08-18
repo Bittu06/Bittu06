@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bittu06" alt="bittu06" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/dey1869640" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/dey1869640?logo=twitter&style=for-the-badge" alt="https://x.com/dey1869640" /></a> </p>
+<p align="left"> <a href="https://twitter.com/https://x.com/dey1869640?t=ra0cped0mloovrh2l-osfw&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/dey1869640?t=ra0cped0mloovrh2l-osfw&s=08?logo=twitter&style=for-the-badge" alt="https://x.com/dey1869640?t=ra0cped0mloovrh2l-osfw&s=08" /></a> </p>
 
 - 👯 I’m looking to collaborate on **Opensource**
 
@@ -17,10 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://x.com/dey1869640" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/dey1869640" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/bittu-dey-71242114b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bittu-dey-71242114b/" height="30" width="40" /></a>
-<a href="https://instagram.com/bittu.dey.official" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bittu.dey.official" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/bittudeyjlvc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="bittudeyjlvc" height="30" width="40" /></a>
+<a href="https://twitter.com/https://x.com/dey1869640?t=ra0cped0mloovrh2l-osfw&s=08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/dey1869640?t=ra0cped0mloovrh2l-osfw&s=08" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/bittu-dey-71242114b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bittu-dey-71242114b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/bittu.dey.official/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bittu.dey.official/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/bittudeyjlvc/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/bittudeyjlvc/" height="30" width="40" /></a>
 <a href="https://discord.gg/993279." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="993279." height="30" width="40" /></a>
 </p>
 
