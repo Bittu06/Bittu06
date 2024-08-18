@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Opensource**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Bittu06](https://github.com/Bittu06)
+- 👨‍💻 All of my projects are available at [https://github.com/Bittu06]([https://github.com/Bittu06](https://github.com/Bittu06?tab=repositories))
 
 - 📫 How to reach me **bittudey190925@gmail.com**
 
